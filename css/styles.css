@@ -1,0 +1,47 @@
+.navbar {
+   background-color: rgb(236, 10, 10);
+}
+.navbar-brand{
+    font-family: 'Goblin One', cursive;
+   font-size: 5rem;
+
+}
+
+
+.upper{
+    background-color: rgb(238, 230, 233);
+    box-sizing: border-box;
+    position: relative;
+    top: 30px;
+    height: 2000px;
+    width: 100%;
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    
+
+}
+h1{
+    font-family: 'Pattaya', sans-serif;
+    margin-left: 30%;
+    padding-top: 2%;
+   
+}
+.all{
+    background-color:#5c4952;
+}
+#features{
+    margin: auto auto;
+    background-color:#1eae98;
+    padding: 5% 5%;
+}
+
+.feature-box{
+ text-align: center;
+ 
+}
+p{
+    color: rgb(116, 25, 25);
+    padding: 1.5rem 3rem;
+}
